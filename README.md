@@ -1,4 +1,4 @@
-# 2015 OECD PISA - Understanding Student's Scores and Study Time
+# 2015 OECD PISA - Understanding Students' Performance & Study Time
 A ISSS616 Applied Statistical Analysis with R Project
 AY2019-20 Term 1
 
