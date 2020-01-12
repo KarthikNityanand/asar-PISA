@@ -8,9 +8,9 @@ This is a project as part of the SMU **ISSS616 Applied Statistical Analysis with
 
 ## The Topic
 
-Singapore is well known for its quality education compared to other countries. In the triennial 2015 OECD Programme for the International Student Assessment (PISA), Singapore students topped the rankings as compared to the rest of the world. However, a survey by PISA also revealed that Singapore students tend to suffer from high levels of anxiety and have among one of the highest out-of-school study time.
+The aim of our project is to understand the variation in students’ study time outside of school and their standardized scores. For the purpose of this project, we focus on science scores, as science is the subject of focus for the 2015 PISA test. We seek to identify factors (e.g. student’s attitudes, demographics, socioeconomic background) affecting students’ studying time and their performance in the test. We also explore if the amount of study time outside of school is associated with indicators of students’ socio-emotional well-being. We expect that these insights can help schools and policy makers develop intervention measures to address issues associated with overly long study time outside school, particularly if it is found to indicate high stress, and short study time which could indicate disinterest in school.
 
-In this project and this dashboard you are viewing right now, we want to find out whether the time spent studying has, in any way, contribute to their performance in PISA, especially that of Science. We are also interested in the factors contributing to out-of-school study time and performance of Singaporean students.
+Through a Shiny interactive dashboard, we explore and visualize the relationship that each variable (e.g. gender, socioeconomic background) has on the mean study time and science score as well as their impact using appropriate statistical models.
 
 ## Setup
 
