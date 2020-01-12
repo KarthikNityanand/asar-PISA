@@ -23,7 +23,7 @@ To be announced.
 To run the codes, simply run the command in any R environment that has `shiny` installed :
 
 ```bash
-shiny::runGitHub('asar-education','tws4793')
+shiny::runGitHub('asar-PISA','KarthikNityanand')
 ```
 
 ### Natively
