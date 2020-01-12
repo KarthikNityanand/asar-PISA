@@ -1,0 +1,57 @@
+Country,Region,Sub_region,latitude,longitude,Total_learn_Time,PISA_Science_Score,TOT_OSCH_STUDYTIME
+Australia,Australia & Oceania,APAC,-25.27,133.78,42.6,510,16.84
+Austria,Europe,EMER,47.52,14.55,44.8,495,16.11
+Belgium,Europe,EMER,50.5,4.47,43.1,502,15.12
+Brazil,America,AMERICA,-14.24,-51.93,46.7,401,21.98
+B-S-J-G (China),Asia,APAC,35.86,104.2,57.1,518,26.75
+Bulgaria,Europe,EMER,42.73,25.49,43.6,446,19.28
+Canada,America,AMERICA,56.13,-106.34,45.2,528,17.78
+Chile,America,AMERICA,-35.68,-71.54,50.1,447,17.69
+Chinese Taipei,Asia,APAC,23.7,120.96,48.2,532,16.66
+Colombia,America,AMERICA,4.57,-74.3,46.3,416,19.11
+Costa Rica,America,AMERICA,9.75,-83.75,49.5,420,17.94
+Croatia,Europe,EMER,45.1,15.2,45.9,475,19.94
+Czech Republic,Europe,EMER,49.82,15.47,41.3,493,15.8
+Denmark,Europe,EMER,56.26,9.5,46,502,19.28
+Dominican Republic,America,AMERICA,18.74,-70.16,50.1,332,25.19
+Estonia,Middle Eastern,EMER,58.6,25.01,42.8,534,17.32
+Finland,Europe,EMER,61.92,25.75,36.1,531,11.93
+France,Europe,EMER,46.23,2.21,42.6,495,15.28
+Germany,Europe,EMER,51.17,10.45,36.5,509,11.01
+Greece,Europe,EMER,39.07,21.82,48.4,455,21.31
+Hong Kong,Asia,APAC,22.4,114.11,46.4,523,17.67
+Hungary,Europe,EMER,47.16,19.5,43.9,477,17.43
+Iceland,Europe,EMER,64.96,-19.02,41.3,473,14.98
+Ireland,Europe,EMER,53.41,-8.24,44.2,503,15.93
+Israel,Middle Eastern,EMER,31.05,34.85,45.5,467,17.16
+Italy,Europe,EMER,41.87,12.57,49.8,481,19.72
+Japan,Asia,APAC,36.2,138.25,41.1,538,13.56
+Korea,Asia,APAC,35.91,127.77,50.5,516,20.14
+Latvia,Middle Eastern,EMER,56.88,24.6,43.3,490,18.25
+Lithuania,Middle Eastern,EMER,55.17,23.88,43.2,475,18.5
+Luxembourg,Europe,EMER,49.82,6.13,42.2,483,15.52
+Macao,Asia,APAC,22.2,113.54,44.5,529,16.24
+Mexico,America,AMERICA,23.63,-102.55,47.9,416,20.08
+Montenegro,Europe,EMER,42.71,19.37,50.2,411,24.18
+Netherlands,Europe,EMER,52.13,5.29,41,509,14.26
+New Zealand,Australia & Oceania,APAC,-40.9,174.89,41.9,513,16.73
+Norway,Europe,EMER,60.47,8.47,43,498,17.9
+OECD average,OECD Average,OECD AVERAGE,#N/A,#N/A,44,493,17.21
+Peru,America,AMERICA,-9.19,-75.02,50.1,397,20.97
+Poland,Europe,EMER,51.92,19.15,46.4,501,18.6
+Portugal,Europe,EMER,39.4,-8.22,45.4,501,17
+Qatar,Middle Eastern,EMER,25.35,51.18,54.4,418,25.61
+Russia,Middle Eastern,EMER,61.52,105.32,48.5,487,22.66
+Singapore,Asia,APAC,1.35,103.82,50.8,556,22.13
+Slovak Republic,Europe,EMER,48.67,19.7,42.9,461,18.43
+Slovenia,Europe,EMER,46.15,15,44.5,513,17.49
+Spain,Europe,EMER,40.46,-3.75,46.5,493,18.39
+Sweden,Europe,EMER,60.13,18.64,39.6,493,13.74
+Switzerland,Europe,EMER,46.82,8.23,38.4,506,13.42
+Thailand,Asia,APAC,15.87,100.99,55.3,421,23.43
+Tunisia,Africa,EMER,33.89,9.54,55.7,386,25.49
+Turkey,Middle Eastern,EMER,38.96,35.24,50.4,425,24.54
+United Arab Emirates,Middle Eastern,EMER,23.42,53.85,58.5,437,28.95
+United Kingdom,Europe,EMER,55.38,-3.44,43.4,509,17.82
+United States,America,AMERICA,37.09,-95.71,48.1,496,20.39
+Uruguay,Europe,EMER,-32.52,-55.77,39.5,435,16.32
